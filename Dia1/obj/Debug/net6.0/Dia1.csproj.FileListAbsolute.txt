@@ -1,0 +1,15 @@
+C:\Users\pascu\Desktop\C#\Dia1\bin\Debug\net6.0\Dia1.exe
+C:\Users\pascu\Desktop\C#\Dia1\bin\Debug\net6.0\Dia1.deps.json
+C:\Users\pascu\Desktop\C#\Dia1\bin\Debug\net6.0\Dia1.runtimeconfig.json
+C:\Users\pascu\Desktop\C#\Dia1\bin\Debug\net6.0\Dia1.dll
+C:\Users\pascu\Desktop\C#\Dia1\bin\Debug\net6.0\Dia1.pdb
+C:\Users\pascu\Desktop\C#\Dia1\obj\Debug\net6.0\Dia1.csproj.AssemblyReference.cache
+C:\Users\pascu\Desktop\C#\Dia1\obj\Debug\net6.0\Dia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pascu\Desktop\C#\Dia1\obj\Debug\net6.0\Dia1.AssemblyInfoInputs.cache
+C:\Users\pascu\Desktop\C#\Dia1\obj\Debug\net6.0\Dia1.AssemblyInfo.cs
+C:\Users\pascu\Desktop\C#\Dia1\obj\Debug\net6.0\Dia1.csproj.CoreCompileInputs.cache
+C:\Users\pascu\Desktop\C#\Dia1\obj\Debug\net6.0\Dia1.dll
+C:\Users\pascu\Desktop\C#\Dia1\obj\Debug\net6.0\refint\Dia1.dll
+C:\Users\pascu\Desktop\C#\Dia1\obj\Debug\net6.0\Dia1.pdb
+C:\Users\pascu\Desktop\C#\Dia1\obj\Debug\net6.0\Dia1.genruntimeconfig.cache
+C:\Users\pascu\Desktop\C#\Dia1\obj\Debug\net6.0\ref\Dia1.dll
